@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423138009271",
+    "project_id": "alahlynote-c0aa1",
+    "storage_bucket": "alahlynote-c0aa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423138009271:android:cfc639eee14305047ead32",
+        "android_client_info": {
+          "package_name": "com.example.app_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423138009271-lgmrq0gcmrid9i79c4gi4ke8g45fk5t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD939GGh0eSERvspC4EqhtIS4Y_vAa0bI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423138009271-lgmrq0gcmrid9i79c4gi4ke8g45fk5t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="app_name">memories</string>
+    <string name="facebook_app_id">895013555288361</string>
+    <string name="fb_login_protocol_scheme">fbca6416bacca0424513c624cfc12dd530</string>
+</resources> 
+
